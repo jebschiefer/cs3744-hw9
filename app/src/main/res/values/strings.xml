@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS 3744 - Homework 9</string>
+    <string name="input">A simple Android application</string>
+
+    <!-- About -->
+    <string name="action_about">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="created_by">Created by: Jeb Schiefer</string>
+    <string name="github">GitHub: https://github.com/jebschiefer</string>
+    <string name="about">This is a modified version of the Homework 9 assignment for CS 3744 at Virginia Tech during Fall Semester 2013.</string>
+
+</resources>
